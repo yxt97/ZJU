@@ -1,0 +1,2171 @@
+[
+ {
+   "Accession": "A0A287B5W2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P09954",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P00591",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2RJR8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8D1Y1K2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3LJ52",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1SGG3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3LDS3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1SUW2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P04416",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P00592",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1S574",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2RJ62",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P02703",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1SGG6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2RFR0",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287AXN9",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2QIP4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287BEI1",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1RW75",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F6Q1W0",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1SGI7",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287BD64",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2QSE8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8W4FD39",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287BHY5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "Q6QAQ1",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "Q6S4N2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1S4T6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "Q8WNW3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P08419",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3LUM7",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8W4FMW6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 1,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8W4FCQ5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P62802",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1S0K4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P02543",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P68137",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3LTK9",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287B6S5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "O02705",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P02554",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3LCF8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F2Z5L5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1RUE4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3LUP6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "K7GQZ4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P19620",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8X9AEM2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "Q9MZ16",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2R318",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "C6L245",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A4X1UTE2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P02067",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P63053",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A286ZUI3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A286ZIE8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 1,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P00355",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8W4FAX8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A286ZWK2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287BM11",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287BIL8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F2Z543",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287AW32",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P01846",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A4X1SSR6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287AT48",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A286ZI36",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A288CFT0",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "K7GLT8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F2Z5N0",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "F1SQ01",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 1,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A4X1TI83",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8W4FDT4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "D5KJI2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P50447",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "K7GSX9",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287A1M9",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A480I0Y2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287A9Y6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A5G2QVL1",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "I3L719",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A4X1SK65",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287A9G4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "P04178",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A8D0STA6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A1XQU3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 1
+ },
+ {
+   "Accession": "A0A287B4J2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RFY1",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287ADE6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P01965",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q29214",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z4Z3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287BI78",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QKD9",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1STC5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1TSZ3",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1W169",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "D0VWV4",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1SM78",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q29036",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z4Y8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287BET5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZW86",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287ASN8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P04574",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q2EN77",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z5C8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q29197",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287B771",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZZD9",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P02189",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q2QLE2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q29201",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q71LE2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q4GWZ2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P52552",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 1,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P62936",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZYL7",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P67985",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z5Q6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P00348",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P62831",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1SNR2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "D0G6R6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5K1TZB6",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LP78",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q6QAP7",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LPB5",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4FGN0",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QN15",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AQB8",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287A228",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RXC2",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RYZ0",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P80015",
+   "EXP-Int-PS50": 1,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AHM5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A2C9F3E9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P08835",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AA77",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "B6VNT8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1SCD0",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4FJ20",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1SCC9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F6PWF7",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1ST01",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z565",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q5XLD3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZYZ5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287BD05",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P28839",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A1XQV4",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RPA7",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q9GMB0",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RW28",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q2YGT9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A480P2S5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q0Z8U2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1TRK5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1VNN9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QD86",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1U253",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A480NQT2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1SHD5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1SM56",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "O19063",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P22412",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1TJA8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4FC15",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AEW5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AT18",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8D0MLF8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4FHN2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8D0YYD5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P50441",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P00795",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LJI1",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "K7GK90",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A900RBU1",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P80928",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LHC8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1S8J6",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8X9AEY3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1TPT1",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1W7C3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZN52",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "0",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LSA5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1S573",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P09955",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1SCC7",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZNH3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "M3TYG7",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P00671",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AL10",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4FLG3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A1E295",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287A4Z2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QCN4",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q4FAT7",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z5C1",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1U3C8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4F6P2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QIE9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287BNY8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8W4FA34",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q85ZW4",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q7YQ94",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A4X1VTR6",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A8D0VIH6",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P62272",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2R7R6",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q767L7",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F2Z558",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P10668",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QML3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LL32",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5K1UKC5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q5XLD2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "Q9TV61",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1S6B5",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P80021",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P42639",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287BID4",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A075B7H9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "P37111",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "O97763",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287AIJ3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RZ82",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZUL8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2R1J3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A480STD3",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A287A042",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A480J3V8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "F1RX66",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LGI9",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QHV1",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QFL2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A286ZMB2",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "A0A5G2QPP0",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ },
+ {
+   "Accession": "I3LCP8",
+   "EXP-Int-PS50": 0,
+   "EXP-Int-Negative": 0,
+   "CK1-α-amylase": 0,
+   "CK2-Pepsin": 0,
+   "CK3-Mucin pH2": 0,
+   "CK3-Pancreatin": 0
+ }
+]
